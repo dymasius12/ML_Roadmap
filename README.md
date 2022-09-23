@@ -1,6 +1,6 @@
 # 2020 Machine Learning Roadmap (still valid for 2021) 
 
-This is not my repo. I get this from Daniel Bourke. I am currently learning ML from Daniel Bourke
+This is not my repo. I get this from Daniel Bourke. I am currently learning ML from Daniel Bourke https://github.com/dymasius12/ML_Roadmap.git
 
 ![2020 machine learning roadmap overview](https://raw.githubusercontent.com/mrdbourke/machine-learning-roadmap/master/2020-ml-roadmap-overview.png?token=AD7ZOCOIG7IZXHDL63W6RZK7A3B6I)
 
